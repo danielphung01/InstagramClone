@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] Style the login page to look similar to the real Instagram page.
-- [] Style the signup page to look similar to the real Instagram page.
+- [x] Style the signup page to look similar to the real Instagram page.
 
 ## Video Walkthrough
 
@@ -34,7 +34,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 
