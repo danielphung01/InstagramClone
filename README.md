@@ -23,6 +23,7 @@ The following **additional** features are implemented:
 
 - [x] Style the login page to look similar to the real Instagram page.
 - [x] Style the signup page to look similar to the real Instagram page.
+- [x] User can return to login page from create new account page
 
 ## Video Walkthrough
 
