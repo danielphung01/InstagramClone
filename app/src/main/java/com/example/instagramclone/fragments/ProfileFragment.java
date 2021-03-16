@@ -1,8 +1,14 @@
 package com.example.instagramclone.fragments;
 
+import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 import com.example.instagramclone.Post;
+import com.example.instagramclone.R;
 import com.parse.FindCallback;
 import com.parse.Parse;
 import com.parse.ParseException;
@@ -12,6 +18,7 @@ import com.parse.ParseUser;
 import java.util.List;
 
 public class ProfileFragment extends PostsFragment {
+
 
     @Override
     protected void queryPosts() {
