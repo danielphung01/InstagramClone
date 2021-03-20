@@ -92,7 +92,7 @@ public class ComposeFragment extends Fragment {
                     return;
                 }
                 if (photoFile == null || ivPostImage.getDrawable() == null) {
-                    Toast.makeText(getContext(), "There is no image", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getContext(), "Take an image first!", Toast.LENGTH_SHORT).show();
                     return;
                 }
                 ParseUser currentUser = ParseUser.getCurrentUser();
